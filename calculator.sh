@@ -1,5 +1,6 @@
 #!/bin/bash
 #this is a calculator application for practice
+# added new test comment for github actions
 
 # this will be used to practice branching strategies
 
