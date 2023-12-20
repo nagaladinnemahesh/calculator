@@ -24,6 +24,5 @@ jobs:
 
     - name: Run tests
       run: |
-        cd src
         chmod +x calculator.sh  # Ensure the script is executable
         ./calculator.sh  # Run the Shell script
